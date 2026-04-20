@@ -43,3 +43,8 @@ git push
 # Baixar els canvis del repositori remot (a GitHub) al repositori local (a la teva màquina)
 git pull
 ```
+
+```
+# Clonar (copiar) un repositori remot (de GitHub) a la teva màquina
+git clone git@github.com:usuari/repositori.git
+```
