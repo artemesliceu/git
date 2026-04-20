@@ -3,6 +3,12 @@
 Resum de commandes esencials de git.
 
 ```
+# Configurar el teu usuari de git
+git config --global user.email "nom@example.com"
+git config --global user.name "Nom"
+```
+
+```
 # Inicialitzar un repositori local
 git init
 ```
